@@ -1,5 +1,5 @@
 # GenomeDetetive-DS2-Project
-worked with Rubab Shah, Yashfeen Zaidi, and Zuhair Rizvi to make this project "GenomeDetective", which concerns bioinformatics, specifically disease prediction as a part of our final project for CS 201 - Data Structures II course at Habib University.
+I worked with Rubab Shah, Yashfeen Zaidi, and Zuhair Rizvi to make this project "GenomeDetective", which concerns bioinformatics, specifically disease prediction as a part of our final project for CS 201 - Data Structures II course at Habib University.
 ![image](https://github.com/user-attachments/assets/3c60f076-968c-4f21-a78c-db58a626015b)
 
 For data input, we utilized the NCBI database and extracted segments of gene sequences. Think of them as strings thousands of letters long and consisting only of A, C, T, G to represent each nucleotide. The project is written in Python and utilizes the hash map as the primary data structure to represent gene sequences via codon frequency. It is split into three functions:
